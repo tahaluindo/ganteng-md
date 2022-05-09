@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href='https://raw.githubusercontent.com/koleksibot/.github/main/profile/whitehatbot.png'><img src='https://www.linkpicture.com/q/WhatsApp-Image-2022-04-07-at-5.59.37-PM.jpeg' type='image'></a>
+<a href='https://raw.githubusercontent.com/koleksibot/.github/main/profile/whitehatbot.png'><img src='https://raw.githubusercontent.com/koleksibot/.github/main/profile/whitehatbot.png' type='image'></a>
 
 # **WHITEHAT BOT MULTI DEVICE WHATSAPP**
   
