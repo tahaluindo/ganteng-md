@@ -97,11 +97,11 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
 	
 //[target]\\
 	const reply = (teks) => {
-            NexusNwInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Join Bot's Official GC`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./Media/astapic.jpg`),"sourceUrl": "https://chat.whatsapp.com/FZSGo0P9zkH7FaDfEKAetP"}}}, { quoted: m})
+            NexusNwInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Join Bot's Official`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./Media/astapic.jpg`),"sourceUrl": "https://chat.whatsapp.com/J4ii7zkiySP9s6xdlZDggp"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            NexusNwInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Subscribe Bot's Official YT Channel`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./Media/astapic.jpg`),"sourceUrl": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjWpvf5rrv3AhXjg_0HHWI0CJQQFnoECAUQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fc%2FGAMINGDUDES_GD&usg=AOvVaw2Brz3_9EIOrhpC9fOABdP4"}}}, { quoted: m})
+            NexusNwInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` LulzGhost-Team Bot`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./Media/astapic.jpg`),"sourceUrl": "https://www.rootsec.xyz"}}}, { quoted: m})
         }
 try {
             let isNumber = x => typeof x === 'number' && !isNaN(x)
