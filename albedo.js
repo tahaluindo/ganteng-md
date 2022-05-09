@@ -1,8 +1,7 @@
 //═══════[© 2022 Eximinati.]════════\\
 //
-//                      Ari Ani by AKU
+//                      Ahmad Chen Wang Xuesi
 //
-//                     𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙-𝙼𝙳 𝙱𝚘𝚝
 
 
 //[modules]\\
@@ -592,7 +591,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
             case 'sc': case 'script': {
-                reply('Script : https://github.com/Eximinati/Ari-Ani-md\n Dont Forget To Give Star\n\nYoutube : https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ\n Dont Forget To Subscribe')
+                reply('Script : https://github.com/Koleksibot/Koleksibot\n Dont Forget To Give Star\n\nYoutube : https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ\n Dont Forget To Subscribe')
             }
             break
             case 'chat': {
@@ -1208,7 +1207,7 @@ case 'antilink':
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
+                                    url: 'https://github.com/Koleksibot/Koleksibot'
                                 }
                             }, {
                                 callButton: {
@@ -1248,7 +1247,7 @@ case 'antilink':
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script🔖',
-                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
+                                    url: 'https://github.com/Koleksibot/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2388,16 +2387,16 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script🔖',
-                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
+                                    url: 'https://github.com/Koleksibot/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2516,12 +2515,12 @@ Please Select Button Below
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script🔖',
-                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
+                                    url: 'https://github.com/Koleksibot/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2551,7 +2550,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `Konichiwa  ${pushname}`,
                     description: `Please Choose The Menu\n\n`,
                     buttonText: "Menu",
-                    footerText: "_Asta-MD_",
+                    footerText: "_LulzGhost-Team_",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Group Features",
@@ -2682,11 +2681,11 @@ case 'grupmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2724,11 +2723,11 @@ case 'downloadmenu': {
                             hydratedContentText: okemenu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2761,11 +2760,11 @@ case 'downloadmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2792,11 +2791,11 @@ case 'randommenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2824,11 +2823,11 @@ case 'funmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2864,11 +2863,11 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2898,11 +2897,11 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2956,11 +2955,11 @@ case 'horoscopemenukcodk': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2994,11 +2993,11 @@ case 'convertmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3034,11 +3033,11 @@ case 'nocategorymenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3071,11 +3070,11 @@ case 'databasemenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3103,11 +3102,11 @@ case 'anonymouschatmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3135,11 +3134,11 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3172,11 +3171,11 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'profile📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3313,11 +3312,11 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `LulzGhost-Team`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'profile📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://github.com/Koleksibot'
                                 }
                             }, {
                                 quickReplyButton: {
